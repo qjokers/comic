@@ -1,0 +1,46 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/" . "Users/")
+ ("/Users/bujiajun/Workspace/" . "python/")
+ ("/Users/bujiajun/" . ".emacs.d/")
+ ("/Users/" . "bujiajun/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/bujiajun/.emacs.d/"
+ "/Users/bujiajun/Workspace/python/"
+ "/Users/bujiajun/Workspace/python/pycharm/data_python/00data_analysis/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "test.py"
+ "news.py"
+ "__init__.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/bujiajun/.emacs.d/" (23636 3315 784798 209000) "backups/" ".session" "elpa/" ".historian" "init.el" ".emacs.desktop" "auto-save-list/" ".uptimes.el" "init.el~" "ido.last" "snippets/" "../" "./")
+
+ ("/Users/bujiajun/Workspace/python/" (23636 3240 565947 33000) "virtualenv/" "csvkit-master/" ".ipynb_checkpoints/" "data_imooc/" "logs/" "pycharm/" "test.py" "basic/" "data_python/" "gvimetst/" ".DS_Store" "data_analysis/" "../" "./")
+
+ ("/Users/bujiajun/" (23636 2487 970573 770000) ".3T/" ".conda/" ".viminfo" ".nbprofiler/" ".bash_history" ".mongorc.js" ".gitconfig" ".cache/" ".python_history" "Downloads/" ".oh-my-zsh/" ".bash_profile" ".m2/" ".hivehistory" ".flume/" ".vscode/" ".mysql_history" ".rustup.sh/" "Documents/" ".npm/" ".scala_history" ".jupyter/" ".tldrc/" ".Trash/" ".parallel/" ".dbshell" ".vimrc" "Movies/" ".ssh/" ".anaconda/" ".quicktype-vscode/" ".bash_profile-anaconda3.bak" "logs/" "Public/" ".beeline/" ".sbt/" ".bash_sessions/" ".android/" ".cargo/" ".node_repl_history" ".emacs.d/" "tmux-client-17992.log" ".oracle_jre_usage/" ".lesshst" ".matplotlib/" "Library/" "Desktop/" ".ipython/" ".zsh_history" "Workspace/" ".pylint.d/" "Pictures/" ".IntelliJIdea14/" ".local/" ".zshrc" ".sogouinput/" ".tooling/" ".idm/" ".CFUserTextEncoding" ".zcompdump-joker-5.3" ".tmux.conf" "App/" ".dbvis/" ".DS_Store" ".arthas/" ".vim/" ".ivy2/" ".wns/" ".condarc" ".idea-build/" "Music/" ".config/" ".eclipse/" "../" "./")
+
+ ("/Users/bujiajun/Workspace/python/pycharm/data_python/00data_analysis/" (23635 60474 729625 612000) "news.py" "__init__.py" "../" "./")
+
+ ("/Users/bujiajun/Workspace/" (23621 9010 73773 768000) "sourcecode/" "c/" "tmp/" "lib/" "cpp/" "scala/" "java/" "shell/" "python/" ".DS_Store" "nodejs/" "../" "./")
+
+ ("/Users/bujiajun/Workspace/python/pycharm/" (23632 3239 849877 789000) "collections/" "pyspark_project/" "requests/" "data_python/" "../" "./")
+
+ ("/Users/bujiajun/Workspace/python/pycharm/data_python/" (23634 60463 524330 622000) ".idea/" "00data_analysis/" "01danyinzi/" "../" "./")
+
+ ("/Users/" (23539 36458 758815 286000) "Guest/" "bujiajun/" "Shared/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
